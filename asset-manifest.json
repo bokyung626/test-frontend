@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bokyung626/test-frontend/static/css/main.285caf02.css",
-    "main.js": "/bokyung626/test-frontend/static/js/main.f8d16c37.js",
-    "static/js/453.c1eef4f5.chunk.js": "/bokyung626/test-frontend/static/js/453.c1eef4f5.chunk.js",
-    "index.html": "/bokyung626/test-frontend/index.html",
-    "main.285caf02.css.map": "/bokyung626/test-frontend/static/css/main.285caf02.css.map",
-    "main.f8d16c37.js.map": "/bokyung626/test-frontend/static/js/main.f8d16c37.js.map",
-    "453.c1eef4f5.chunk.js.map": "/bokyung626/test-frontend/static/js/453.c1eef4f5.chunk.js.map"
+    "main.css": "/test-frontend/static/css/main.285caf02.css",
+    "main.js": "/test-frontend/static/js/main.e6be5e94.js",
+    "static/js/453.c1eef4f5.chunk.js": "/test-frontend/static/js/453.c1eef4f5.chunk.js",
+    "index.html": "/test-frontend/index.html",
+    "main.285caf02.css.map": "/test-frontend/static/css/main.285caf02.css.map",
+    "main.e6be5e94.js.map": "/test-frontend/static/js/main.e6be5e94.js.map",
+    "453.c1eef4f5.chunk.js.map": "/test-frontend/static/js/453.c1eef4f5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.285caf02.css",
-    "static/js/main.f8d16c37.js"
+    "static/js/main.e6be5e94.js"
   ]
 }
