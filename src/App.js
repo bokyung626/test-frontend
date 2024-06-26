@@ -8,8 +8,6 @@ function App() {
     <div className="App">
       <h1>1</h1>
       <Search />
-      <h1>2</h1>
-      <InputDouble />
       <h1>3</h1>
       <Card />
     </div>
